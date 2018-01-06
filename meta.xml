@@ -1,5 +1,6 @@
 <meta>
 	<info author="Ahmed Ly" type="script" name="test" version="1.1.0" />
+	<script src="rm.lua" type="server" />
 	<script src="test.lua" type="server" />
 	<file src="update.cfg" />
 </meta>
